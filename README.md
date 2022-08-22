@@ -15,4 +15,3 @@ yarn add --dev react-app-rewired process crypto-browserify stream-browserify ass
 declare const window: any;
 
 ```
-111
